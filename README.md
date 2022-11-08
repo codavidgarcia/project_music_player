@@ -1,4 +1,4 @@
-# Build and Deploy a Better Spotify 2.0 Clone Music App with React 18! (Tailwind, Shazam, Redux)
-![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
+# This is a music app built with React and Tailwind, Shazam and Redux
+![Spotify Clone](https://ibb.co/0yPqJ0r)
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+### Practical exercise to showcase development skills from @codavidgarcia, following JS Mastery tutorial.
